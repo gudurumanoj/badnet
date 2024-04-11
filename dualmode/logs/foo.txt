@@ -1,0 +1,365 @@
+------ Data loaded ------
+------ Model loaded ------
+----------------- Training -----------------
+Optimizer:  SGD (
+Parameter Group 0
+    dampening: 0
+    differentiable: False
+    foreach: None
+    lr: 0.1
+    maximize: False
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0
+)
+Epoch: 0, Iteration: 0, Loss: 2.3029
+Epoch: 0, Iteration: 100, Loss: 1.7679
+Epoch: 0, Iteration: 200, Loss: 0.5183
+Epoch: 0, Iteration: 300, Loss: 0.3891
+Epoch: 0, Iteration: 400, Loss: 0.0500
+Accuracy on test set: 0.9600
+Accuracy:  0.96
+Epoch: 1, Iteration: 0, Loss: 0.1443
+Epoch: 1, Iteration: 100, Loss: 0.1036
+Epoch: 1, Iteration: 200, Loss: 0.0913
+Epoch: 1, Iteration: 300, Loss: 0.1228
+Epoch: 1, Iteration: 400, Loss: 0.1280
+Accuracy on test set: 0.9777
+Accuracy:  0.9777
+Epoch: 2, Iteration: 0, Loss: 0.1249
+Epoch: 2, Iteration: 100, Loss: 0.0716
+Epoch: 2, Iteration: 200, Loss: 0.0537
+Epoch: 2, Iteration: 300, Loss: 0.0677
+Epoch: 2, Iteration: 400, Loss: 0.1229
+Accuracy on test set: 0.9817
+Accuracy:  0.9817
+Epoch: 3, Iteration: 0, Loss: 0.0982
+Epoch: 3, Iteration: 100, Loss: 0.0929
+Epoch: 3, Iteration: 200, Loss: 0.1732
+Epoch: 3, Iteration: 300, Loss: 0.0490
+Epoch: 3, Iteration: 400, Loss: 0.0754
+Accuracy on test set: 0.9843
+Accuracy:  0.9843
+Epoch: 4, Iteration: 0, Loss: 0.0046
+Epoch: 4, Iteration: 100, Loss: 0.0652
+Epoch: 4, Iteration: 200, Loss: 0.0052
+Epoch: 4, Iteration: 300, Loss: 0.1791
+Epoch: 4, Iteration: 400, Loss: 0.1836
+Accuracy on test set: 0.9857
+Accuracy:  0.9857
+Epoch: 5, Iteration: 0, Loss: 0.0844
+Epoch: 5, Iteration: 100, Loss: 0.0480
+Epoch: 5, Iteration: 200, Loss: 0.0222
+Epoch: 5, Iteration: 300, Loss: 0.0197
+Epoch: 5, Iteration: 400, Loss: 0.0193
+Accuracy on test set: 0.9882
+Accuracy:  0.9882
+Epoch: 6, Iteration: 0, Loss: 0.0010
+Epoch: 6, Iteration: 100, Loss: 0.0402
+Epoch: 6, Iteration: 200, Loss: 0.0151
+Epoch: 6, Iteration: 300, Loss: 0.0271
+Epoch: 6, Iteration: 400, Loss: 0.0909
+Accuracy on test set: 0.9860
+Accuracy:  0.986
+Epoch: 7, Iteration: 0, Loss: 0.0292
+Epoch: 7, Iteration: 100, Loss: 0.0120
+Epoch: 7, Iteration: 200, Loss: 0.0404
+Epoch: 7, Iteration: 300, Loss: 0.0116
+Epoch: 7, Iteration: 400, Loss: 0.0315
+Accuracy on test set: 0.9884
+Accuracy:  0.9884
+Epoch: 8, Iteration: 0, Loss: 0.0230
+Epoch: 8, Iteration: 100, Loss: 0.0035
+Epoch: 8, Iteration: 200, Loss: 0.0153
+Epoch: 8, Iteration: 300, Loss: 0.0151
+Epoch: 8, Iteration: 400, Loss: 0.0298
+Accuracy on test set: 0.9894
+Accuracy:  0.9894
+Epoch: 9, Iteration: 0, Loss: 0.0002
+Epoch: 9, Iteration: 100, Loss: 0.0371
+Epoch: 9, Iteration: 200, Loss: 0.0426
+Epoch: 9, Iteration: 300, Loss: 0.0614
+Epoch: 9, Iteration: 400, Loss: 0.0006
+Accuracy on test set: 0.9878
+Accuracy:  0.9878
+Epoch: 10, Iteration: 0, Loss: 0.0275
+Epoch: 10, Iteration: 100, Loss: 0.0024
+Epoch: 10, Iteration: 200, Loss: 0.1141
+Epoch: 10, Iteration: 300, Loss: 0.0126
+Epoch: 10, Iteration: 400, Loss: 0.0161
+Accuracy on test set: 0.9900
+Accuracy:  0.99
+Epoch: 11, Iteration: 0, Loss: 0.0132
+Epoch: 11, Iteration: 100, Loss: 0.0059
+Epoch: 11, Iteration: 200, Loss: 0.0006
+Epoch: 11, Iteration: 300, Loss: 0.0265
+Epoch: 11, Iteration: 400, Loss: 0.0069
+Accuracy on test set: 0.9889
+Accuracy:  0.9889
+Epoch: 12, Iteration: 0, Loss: 0.0093
+Epoch: 12, Iteration: 100, Loss: 0.0007
+Epoch: 12, Iteration: 200, Loss: 0.0017
+Epoch: 12, Iteration: 300, Loss: 0.0530
+Epoch: 12, Iteration: 400, Loss: 0.0005
+Accuracy on test set: 0.9875
+Accuracy:  0.9875
+Epoch: 13, Iteration: 0, Loss: 0.0211
+Epoch: 13, Iteration: 100, Loss: 0.0625
+Epoch: 13, Iteration: 200, Loss: 0.0012
+Epoch: 13, Iteration: 300, Loss: 0.0090
+Epoch: 13, Iteration: 400, Loss: 0.0538
+Accuracy on test set: 0.9885
+Accuracy:  0.9885
+Epoch: 14, Iteration: 0, Loss: 0.0117
+Epoch: 14, Iteration: 100, Loss: 0.0092
+Epoch: 14, Iteration: 200, Loss: 0.0152
+Epoch: 14, Iteration: 300, Loss: 0.0031
+Epoch: 14, Iteration: 400, Loss: 0.0302
+Accuracy on test set: 0.9907
+Accuracy:  0.9907
+Epoch: 15, Iteration: 0, Loss: 0.0034
+Epoch: 15, Iteration: 100, Loss: 0.0229
+Epoch: 15, Iteration: 200, Loss: 0.0029
+Epoch: 15, Iteration: 300, Loss: 0.0351
+Epoch: 15, Iteration: 400, Loss: 0.0008
+Accuracy on test set: 0.9885
+Accuracy:  0.9885
+Epoch: 16, Iteration: 0, Loss: 0.0035
+Epoch: 16, Iteration: 100, Loss: 0.0038
+Epoch: 16, Iteration: 200, Loss: 0.0159
+Epoch: 16, Iteration: 300, Loss: 0.1932
+Epoch: 16, Iteration: 400, Loss: 0.0071
+Accuracy on test set: 0.9908
+Accuracy:  0.9908
+Epoch: 17, Iteration: 0, Loss: 0.0127
+Epoch: 17, Iteration: 100, Loss: 0.0110
+Epoch: 17, Iteration: 200, Loss: 0.0585
+Epoch: 17, Iteration: 300, Loss: 0.0033
+Epoch: 17, Iteration: 400, Loss: 0.0158
+Accuracy on test set: 0.9873
+Accuracy:  0.9873
+Epoch: 18, Iteration: 0, Loss: 0.0155
+Epoch: 18, Iteration: 100, Loss: 0.0694
+Epoch: 18, Iteration: 200, Loss: 0.0009
+Epoch: 18, Iteration: 300, Loss: 0.1294
+Epoch: 18, Iteration: 400, Loss: 0.0082
+Accuracy on test set: 0.9911
+Accuracy:  0.9911
+Epoch: 19, Iteration: 0, Loss: 0.0163
+Epoch: 19, Iteration: 100, Loss: 0.0147
+Epoch: 19, Iteration: 200, Loss: 0.0028
+Epoch: 19, Iteration: 300, Loss: 0.0150
+Epoch: 19, Iteration: 400, Loss: 0.0012
+Accuracy on test set: 0.9911
+Accuracy:  0.9911
+Epoch: 20, Iteration: 0, Loss: 0.0048
+Epoch: 20, Iteration: 100, Loss: 0.0111
+Epoch: 20, Iteration: 200, Loss: 0.0003
+Epoch: 20, Iteration: 300, Loss: 0.0058
+Epoch: 20, Iteration: 400, Loss: 0.0254
+Accuracy on test set: 0.9868
+Accuracy:  0.9868
+Epoch: 21, Iteration: 0, Loss: 0.0195
+Epoch: 21, Iteration: 100, Loss: 0.0014
+Epoch: 21, Iteration: 200, Loss: 0.0004
+Epoch: 21, Iteration: 300, Loss: 0.0233
+Epoch: 21, Iteration: 400, Loss: 0.0246
+Accuracy on test set: 0.9901
+Accuracy:  0.9901
+Epoch: 22, Iteration: 0, Loss: 0.0046
+Epoch: 22, Iteration: 100, Loss: 0.0001
+Epoch: 22, Iteration: 200, Loss: 0.0528
+Epoch: 22, Iteration: 300, Loss: 0.0688
+Epoch: 22, Iteration: 400, Loss: 0.0475
+Accuracy on test set: 0.9876
+Accuracy:  0.9876
+Epoch: 23, Iteration: 0, Loss: 0.0004
+Epoch: 23, Iteration: 100, Loss: 0.0065
+Epoch: 23, Iteration: 200, Loss: 0.0836
+Epoch: 23, Iteration: 300, Loss: 0.0605
+Epoch: 23, Iteration: 400, Loss: 0.0039
+Accuracy on test set: 0.9902
+Accuracy:  0.9902
+Epoch: 24, Iteration: 0, Loss: 0.0448
+Epoch: 24, Iteration: 100, Loss: 0.0006
+Epoch: 24, Iteration: 200, Loss: 0.0042
+Epoch: 24, Iteration: 300, Loss: 0.0082
+Epoch: 24, Iteration: 400, Loss: 0.0203
+Accuracy on test set: 0.9871
+Accuracy:  0.9871
+Epoch: 25, Iteration: 0, Loss: 0.0090
+Epoch: 25, Iteration: 100, Loss: 0.0079
+Epoch: 25, Iteration: 200, Loss: 0.0440
+Epoch: 25, Iteration: 300, Loss: 0.1178
+Epoch: 25, Iteration: 400, Loss: 0.0032
+Accuracy on test set: 0.9896
+Accuracy:  0.9896
+Epoch: 26, Iteration: 0, Loss: 0.0031
+Epoch: 26, Iteration: 100, Loss: 0.0196
+Epoch: 26, Iteration: 200, Loss: 0.0174
+Epoch: 26, Iteration: 300, Loss: 0.0009
+Epoch: 26, Iteration: 400, Loss: 0.0169
+Accuracy on test set: 0.9872
+Accuracy:  0.9872
+Epoch: 27, Iteration: 0, Loss: 0.0007
+Epoch: 27, Iteration: 100, Loss: 0.0005
+Epoch: 27, Iteration: 200, Loss: 0.0085
+Epoch: 27, Iteration: 300, Loss: 0.0041
+Epoch: 27, Iteration: 400, Loss: 0.0380
+Accuracy on test set: 0.9900
+Accuracy:  0.99
+Epoch: 28, Iteration: 0, Loss: 0.0846
+Epoch: 28, Iteration: 100, Loss: 0.0005
+Epoch: 28, Iteration: 200, Loss: 0.0179
+Epoch: 28, Iteration: 300, Loss: 0.0001
+Epoch: 28, Iteration: 400, Loss: 0.0022
+Accuracy on test set: 0.9876
+Accuracy:  0.9876
+Epoch: 29, Iteration: 0, Loss: 0.0697
+Epoch: 29, Iteration: 100, Loss: 0.0085
+Epoch: 29, Iteration: 200, Loss: 0.0006
+Epoch: 29, Iteration: 300, Loss: 0.0014
+Epoch: 29, Iteration: 400, Loss: 0.0002
+Accuracy on test set: 0.9892
+Accuracy:  0.9892
+Epoch: 30, Iteration: 0, Loss: 0.0057
+Epoch: 30, Iteration: 100, Loss: 0.0221
+Epoch: 30, Iteration: 200, Loss: 0.0040
+Epoch: 30, Iteration: 300, Loss: 0.0003
+Epoch: 30, Iteration: 400, Loss: 0.0135
+Accuracy on test set: 0.9853
+Accuracy:  0.9853
+Epoch: 31, Iteration: 0, Loss: 0.0069
+Epoch: 31, Iteration: 100, Loss: 0.0169
+Epoch: 31, Iteration: 200, Loss: 0.0122
+Epoch: 31, Iteration: 300, Loss: 0.1475
+Epoch: 31, Iteration: 400, Loss: 0.0052
+Accuracy on test set: 0.9876
+Accuracy:  0.9876
+Epoch: 32, Iteration: 0, Loss: 0.0060
+Epoch: 32, Iteration: 100, Loss: 0.0001
+Epoch: 32, Iteration: 200, Loss: 0.0064
+Epoch: 32, Iteration: 300, Loss: 0.0670
+Epoch: 32, Iteration: 400, Loss: 0.0147
+Accuracy on test set: 0.9900
+Accuracy:  0.99
+Epoch: 33, Iteration: 0, Loss: 0.0111
+Epoch: 33, Iteration: 100, Loss: 0.0620
+Epoch: 33, Iteration: 200, Loss: 0.0046
+Epoch: 33, Iteration: 300, Loss: 0.0976
+Epoch: 33, Iteration: 400, Loss: 0.0323
+Accuracy on test set: 0.9891
+Accuracy:  0.9891
+Epoch: 34, Iteration: 0, Loss: 0.0449
+Epoch: 34, Iteration: 100, Loss: 0.0001
+Epoch: 34, Iteration: 200, Loss: 0.1144
+Epoch: 34, Iteration: 300, Loss: 0.0320
+Epoch: 34, Iteration: 400, Loss: 0.0019
+Accuracy on test set: 0.9887
+Accuracy:  0.9887
+Epoch: 35, Iteration: 0, Loss: 0.0595
+Epoch: 35, Iteration: 100, Loss: 0.0800
+Epoch: 35, Iteration: 200, Loss: 0.0288
+Epoch: 35, Iteration: 300, Loss: 0.0033
+Epoch: 35, Iteration: 400, Loss: 0.0132
+Accuracy on test set: 0.9852
+Accuracy:  0.9852
+Epoch: 36, Iteration: 0, Loss: 0.0196
+Epoch: 36, Iteration: 100, Loss: 0.0146
+Epoch: 36, Iteration: 200, Loss: 0.0255
+Epoch: 36, Iteration: 300, Loss: 0.0002
+Epoch: 36, Iteration: 400, Loss: 0.0044
+Accuracy on test set: 0.9868
+Accuracy:  0.9868
+Epoch: 37, Iteration: 0, Loss: 0.0977
+Epoch: 37, Iteration: 100, Loss: 0.0592
+Epoch: 37, Iteration: 200, Loss: 0.0323
+Epoch: 37, Iteration: 300, Loss: 0.0372
+Epoch: 37, Iteration: 400, Loss: 0.0150
+Accuracy on test set: 0.9878
+Accuracy:  0.9878
+Epoch: 38, Iteration: 0, Loss: 0.0618
+Epoch: 38, Iteration: 100, Loss: 0.0012
+Epoch: 38, Iteration: 200, Loss: 0.0112
+Epoch: 38, Iteration: 300, Loss: 0.0088
+Epoch: 38, Iteration: 400, Loss: 0.0004
+Accuracy on test set: 0.9877
+Accuracy:  0.9877
+Epoch: 39, Iteration: 0, Loss: 0.0344
+Epoch: 39, Iteration: 100, Loss: 0.0820
+Epoch: 39, Iteration: 200, Loss: 0.0218
+Epoch: 39, Iteration: 300, Loss: 0.0325
+Epoch: 39, Iteration: 400, Loss: 0.0503
+Accuracy on test set: 0.9870
+Accuracy:  0.987
+Epoch: 40, Iteration: 0, Loss: 0.1227
+Epoch: 40, Iteration: 100, Loss: 0.0038
+Epoch: 40, Iteration: 200, Loss: 0.0005
+Epoch: 40, Iteration: 300, Loss: 0.0019
+Epoch: 40, Iteration: 400, Loss: 0.0001
+Accuracy on test set: 0.9895
+Accuracy:  0.9895
+Epoch: 41, Iteration: 0, Loss: 0.0969
+Epoch: 41, Iteration: 100, Loss: 0.0008
+Epoch: 41, Iteration: 200, Loss: 0.0001
+Epoch: 41, Iteration: 300, Loss: 0.0000
+Epoch: 41, Iteration: 400, Loss: 0.0010
+Accuracy on test set: 0.9871
+Accuracy:  0.9871
+Epoch: 42, Iteration: 0, Loss: 0.0136
+Epoch: 42, Iteration: 100, Loss: 0.0014
+Epoch: 42, Iteration: 200, Loss: 0.0592
+Epoch: 42, Iteration: 300, Loss: 0.0159
+Epoch: 42, Iteration: 400, Loss: 0.0282
+Accuracy on test set: 0.9844
+Accuracy:  0.9844
+Epoch: 43, Iteration: 0, Loss: 0.0388
+Epoch: 43, Iteration: 100, Loss: 0.0404
+Epoch: 43, Iteration: 200, Loss: 0.0467
+Epoch: 43, Iteration: 300, Loss: 0.0024
+Epoch: 43, Iteration: 400, Loss: 0.0074
+Accuracy on test set: 0.9891
+Accuracy:  0.9891
+Epoch: 44, Iteration: 0, Loss: 0.0666
+Epoch: 44, Iteration: 100, Loss: 0.0001
+Epoch: 44, Iteration: 200, Loss: 0.0245
+Epoch: 44, Iteration: 300, Loss: 0.0019
+Epoch: 44, Iteration: 400, Loss: 0.0494
+Accuracy on test set: 0.9914
+Accuracy:  0.9914
+Epoch: 45, Iteration: 0, Loss: 0.0028
+Epoch: 45, Iteration: 100, Loss: 0.0013
+Epoch: 45, Iteration: 200, Loss: 0.0172
+Epoch: 45, Iteration: 300, Loss: 0.0824
+Epoch: 45, Iteration: 400, Loss: 0.0002
+Accuracy on test set: 0.9798
+Accuracy:  0.9798
+Epoch: 46, Iteration: 0, Loss: 0.0630
+Epoch: 46, Iteration: 100, Loss: 0.0001
+Epoch: 46, Iteration: 200, Loss: 0.1922
+Epoch: 46, Iteration: 300, Loss: 0.0908
+Epoch: 46, Iteration: 400, Loss: 0.0099
+Accuracy on test set: 0.9867
+Accuracy:  0.9867
+Epoch: 47, Iteration: 0, Loss: 0.0622
+Epoch: 47, Iteration: 100, Loss: 0.0154
+Epoch: 47, Iteration: 200, Loss: 0.0612
+Epoch: 47, Iteration: 300, Loss: 0.1424
+Epoch: 47, Iteration: 400, Loss: 0.0002
+Accuracy on test set: 0.9847
+Accuracy:  0.9847
+Epoch: 48, Iteration: 0, Loss: 0.0445
+Epoch: 48, Iteration: 100, Loss: 0.0180
+Epoch: 48, Iteration: 200, Loss: 0.0316
+Epoch: 48, Iteration: 300, Loss: 0.0009
+Epoch: 48, Iteration: 400, Loss: 0.0807
+Accuracy on test set: 0.9868
+Accuracy:  0.9868
+Epoch: 49, Iteration: 0, Loss: 0.0126
+Epoch: 49, Iteration: 100, Loss: 0.0417
+Epoch: 49, Iteration: 200, Loss: 0.0401
+Epoch: 49, Iteration: 300, Loss: 0.2926
+Epoch: 49, Iteration: 400, Loss: 0.0918
+Accuracy on test set: 0.9836
+Accuracy:  0.9836
+----------Training done------------
